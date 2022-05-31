@@ -1,0 +1,9 @@
+sentence-transformers
+tweet-preprocessor
+wordcloud
+fuzzywuzzy
+plotly
+gensim
+webcolors
+nltk
+emot
